@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81c4eb42-3aed-4991-854b-0608bbb5b5af" name="Default Changelist" comment="" />
+    <list default="true" id="81c4eb42-3aed-4991-854b-0608bbb5b5af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,37 +14,7 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/tests/Entity/UserTest.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="697">
-                  <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-                  <folding>
-                    <element signature="e#119#139#0#PHP" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Entity/User.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-34">
-                  <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -218,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553679037860</updated>
-      <workItem from="1553679039486" duration="8377000" />
+      <workItem from="1553679039486" duration="8618000" />
     </task>
     <task id="LOCAL-00001" summary="création api_user">
       <created>1553683253595</created>
@@ -227,11 +199,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553683253595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testes unitaires">
+      <created>1553692671247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553692671247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8377000" />
+    <option name="totallyTimeSpent" value="8618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-306" width="1936" height="1056" extended-state="6" />
@@ -262,7 +241,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="création api_user" />
-    <option name="LAST_COMMIT_MESSAGE" value="création api_user" />
+    <MESSAGE value="testes unitaires" />
+    <option name="LAST_COMMIT_MESSAGE" value="testes unitaires" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../api_legacy/.env">
