@@ -43,6 +43,17 @@ class User
         return $this->id;
     }
 
+    /**
+     * @param mixed $id
+     * @return User
+     */
+    public function setId($id)
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
     public function getLastName(): ?string
     {
         return $this->lastName;
