@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81c4eb42-3aed-4991-854b-0608bbb5b5af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/Entity/UserTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/user_jarvis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/user_jarvis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="81c4eb42-3aed-4991-854b-0608bbb5b5af" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +18,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/tests/Entity/UserTest.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="629">
-                  <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="49" />
+                <state relative-caret-position="697">
+                  <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
                   <folding>
                     <element signature="e#119#139#0#PHP" expanded="true" />
                   </folding>
@@ -191,17 +182,6 @@
               <item name="user_jarvis" type="b2602c69:ProjectViewProjectNode" />
               <item name="user_jarvis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="user_jarvis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user_jarvis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user_jarvis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user_jarvis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -238,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553679037860</updated>
-      <workItem from="1553679039486" duration="8112000" />
+      <workItem from="1553679039486" duration="8377000" />
     </task>
     <task id="LOCAL-00001" summary="création api_user">
       <created>1553683253595</created>
@@ -251,11 +231,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8112000" />
+    <option name="totallyTimeSpent" value="8377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-306" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
@@ -346,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Entity/UserTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="49" />
+        <state relative-caret-position="697">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
           <folding>
             <element signature="e#119#139#0#PHP" expanded="true" />
           </folding>
