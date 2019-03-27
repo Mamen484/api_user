@@ -1,13 +1,24 @@
 
 ###> symfony/framework-bundle ###
 /.env.local
-/.env.local.php
 /.env.*.local
+/docker-compose.yml
 /public/bundles/
 /var/
 /vendor/
+/.idea
+/.idea/*
 ###< symfony/framework-bundle ###
 
 ###> symfony/web-server-bundle ###
 /.web-server-pid
 ###< symfony/web-server-bundle ###
+/composer.lock
+/package-lock.json
+/docker-compose.yml.dist
+/symfony.lock
+
+###> symfony/phpunit-bridge ###
+.phpunit
+/phpunit.xml
+###< symfony/phpunit-bridge ###
